@@ -1,0 +1,25 @@
+﻿{
+  "comments": [
+    {
+      "id_interaction": 1,
+      "content": "BLAHBLAHBLAH",
+      "id_tweet": 9,
+      "id_utilisateur": 1,
+      "horodatage": "6h"
+    },
+    {
+      "id_interaction": 2,
+      "content": "LE SAVAIS TU ?",
+      "id_tweet": 9,
+      "id_utilisateur": 1,
+      "horodatage": "5h"
+    },
+    {
+      "id_interaction": 3,
+      "content": "OUI JE LE SAVAIS TU.",
+      "id_tweet": 9,
+      "id_utilisateur": 1,
+      "horodatage": "1h"
+    }
+          ]
+}

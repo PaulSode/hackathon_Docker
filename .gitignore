@@ -1,0 +1,18 @@
+/node_modules
+
+# Dépendances IA
+/IA/dataset/
+/IA/backend/venv/
+/IA/frontend/.next/
+/IA/frontend/node_modules/
+/IA/backend/__pycache__/
+
+# Dépendances Frontend
+/frontend/venv/
+/frontend/node_modules/
+
+# Dépendances Backend
+/backend/venv/
+/backend/node_modules/
+/backend/uploads/
+/backend/.env
